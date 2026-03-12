@@ -69,9 +69,10 @@ Flags:
 - `--dry-run`: preview mutating operations.
 - `-h`, `--help`: show usage.
 
-### Hybrid mode
+### Hybrid mode (Beta)
 
-Inject Dolby Vision metadata from a DV source into an HDR target:
+Inject Dolby Vision metadata from a DV source into an HDR target.
+This feature is currently in beta:
 
 ```bash
 # Dry run
