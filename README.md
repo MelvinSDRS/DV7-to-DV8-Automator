@@ -145,3 +145,8 @@ cd dovi_tool
 cargo build --release
 cargo test --all-features
 ```
+
+## License
+
+- Project code: MIT (see `LICENSE`)
+- Bundled third-party binaries in `tools/`: see `THIRD_PARTY_LICENSES.md`
